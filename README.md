@@ -1,6 +1,8 @@
-# Hashing Code Exercise
+# Hashing Code Using Sha256
 
-To use this boilerplate code locally follow this steps:
+A simple demonstration of the SHA256 hashing function from the crypto-js library operated upon two variables.
+
+To use this code locally follow this steps:
 
 1. Clone or download the project.
 2. Open your project with your favorite IDE.
