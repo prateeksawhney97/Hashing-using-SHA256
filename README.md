@@ -1,6 +1,6 @@
 # Hashing Code Using Sha256
 
-A simple demonstration of the SHA265 hashing function from the crypto-js library operated upon two variables.
+A simple demonstration of the SHA256 hashing function from the crypto-js library operated upon two variables.
 
 To use this code locally follow this steps:
 
